@@ -90,7 +90,7 @@ const music_list = [
     img : './images/kyu.png',
     name : 'Dil Kyun Yeh Mera',
     artist : 'Kites- KK',
-    music : 'music/dil Kyun Yeh Mera.mp3'
+    music : 'music/Dil Kyun Yeh Mera.mp3'
 }
 ,
 {
